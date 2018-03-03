@@ -1,0 +1,7 @@
+Itens de configuração:
+
+Plano de projeto de software: 
+Realizar um plano/escopo do software para que todos os processos e itens de configurações seguintes estejam dentro do escopo/planejado
+
+Programa executável:
+Fazer com que o programa seja entregue conforme o escopo e o planejado para o cliente, sem problemas de execução ou planejamento.
