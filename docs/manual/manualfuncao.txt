@@ -1,0 +1,3 @@
+O manual deverá conter todos os passos necessários para o uso correto do software. É esperado que, com ele, o uso do software seja mais fácil.
+
+Todas as telas e funções do software serão vistas pelo responsável do manual e printadas, e depois todos os devidos passos serão colocados.
