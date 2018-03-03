@@ -1,0 +1,3 @@
+O responsável pelo teste deverá testar todas as funções do software, para que ele funcione corretamente sem nenhum problema, seja de sintaxe ou lógico, sempre evitando quaisquer tipos de erros aparentes.
+
+Ele deverá testar todos os parâmetros e condições para o perfeito funcionamento do software e progressão do projeto para que vá para produção sem erros e consiga uma boa experiência para o usuário final.
