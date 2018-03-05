@@ -1,0 +1,3 @@
+O(a) Administrador(a) de Banco de Dados tem como principais atribuições o gerenciamento de dados, desenvolver bancos de dados, monitorar o desempenho, garantir a integridade e disponibilidade de informações, realizar backups, replicações e otimizações.
+
+Fonte: http://tutano.trampos.co/16206-guia-de-profissoes-dba/
